@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.exe.config
+C:\Users\User\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.exe
+C:\Users\User\source\repos\Login Form application\Login Form application\bin\Debug\Login Form application.pdb
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Form1.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Menuform.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Properties.Resources.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.exe
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.pdb
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Form2.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Form3.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Form4.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Form5.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Watch_log.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.Parsing.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application._13.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.try.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.dat.resources
+C:\Users\User\source\repos\Login Form application\Login Form application\bin\Debug\ClassLibrary1.dll
+C:\Users\User\source\repos\Login Form application\Login Form application\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login Form application.csproj.CopyComplete
+C:\Users\User\source\repos\Login Form application\Login Form application\obj\Debug\Login_Form_application.trip.resources
